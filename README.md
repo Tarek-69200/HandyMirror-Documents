@@ -1,6 +1,6 @@
 # HANDY MIRROR - Règles
 
-![Logo](url.png)
+![Logo](https://github.com/alain-guillon-it/HandyMirror-Documents/blob/main/logo/HM.jpg)
 
 ## Outils afin de réaliser à bien le projet IOT
 
