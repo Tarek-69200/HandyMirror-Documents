@@ -18,11 +18,7 @@
 
 ## Les technologies à utiliser pour HandyMirror (Fil rouge)
 
--   HTML,CSS,JS + Framwork React
--   Pré-processeur CSS : Sass
--   PHP 8.1 et framwork recommandée (Symphony)
--   Composer
--   Base de donnée via MongoDb + ORM / ODM Doctrine
+![Logo](https://github.com/alain-guillon-it/HandyMirror-Documents/blob/main/screenshots/Technologies_used.png)
 
 -   Micro Services eventuels ( technologies libre )
 
