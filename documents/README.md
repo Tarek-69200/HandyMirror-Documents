@@ -11,7 +11,7 @@ Liste des documents pour mener à bien le projet
 -   [ ] -   MOA ()
 -   [ ] -   MCD ()
 -   [ ] -   MPD ()
--   [ ] -   Gestion des risques
+-   [X] -   Gestion des risques
 -   [X] -   Rétroplanning
 -   [x] -   Fiche Projet
 -   [x] -   Data Corn
