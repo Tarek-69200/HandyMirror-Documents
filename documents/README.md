@@ -12,7 +12,7 @@ Liste des documents pour mener à bien le projet
 -   [ ] -   MCD ()
 -   [ ] -   MPD ()
 -   [ ] -   Gestion des risques
--   [ ] -   Rétroplanning
+-   [X] -   Rétroplanning
 -   [x] -   Fiche Projet
 -   [x] -   Data Corn
 -   [x] -   Diagramme Pieuvre
