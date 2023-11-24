@@ -12,7 +12,6 @@
 -   [x] Communiquer avec un serveur distant sous (Linux - Raspbian)
 -   [x] Visual Studio Code, JetBrains (PhpStorm), GitHub CodeSpaces.
     -   [x] **Alain** : Visual Studio Code
-    -   [x] **Maher** : JetBrains (PhpStorm)
     -   [x] **Sophie** : Visual Studio Code
     -   [x] **Tarek** : Visual Studio Code
 
